@@ -1,0 +1,295 @@
+﻿Build started 2014/12/19 9:42:58.
+     1>Project "G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\test5\test5.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\test5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test5_1.cpp
+         test5_1.cpp
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(86): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(88): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(89): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(90): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strlwr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(247) : 参见“strlwr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(48): warning C4101: “j”: 未引用的局部变量
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(146): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(250) : 参见“strrev”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(148): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(250) : 参见“strrev”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(164): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(166): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(168): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(170): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(177): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(178): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(182): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(184): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(185): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(202): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(204): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(205): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(217): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(218): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(220): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(224): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(225): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(226): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(227): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(228): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(229): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(236): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(237): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(240): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(258): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(260): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(261): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(272): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(275): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(295): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(322): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(329): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(335): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(336): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(337): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(338): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(340): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(341): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(351): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(366): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(380): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(382): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(383): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(398): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(403): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(411): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(417): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(422): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(423): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(424): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(425): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(430): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(433): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(434): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(438): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(389): warning C4101: “strtext”: 未引用的局部变量
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(455): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(493): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(497): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(508): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(510): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(512): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(514): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(521): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(522): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(528): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(547): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(550): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(559): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(560): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(561): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(562): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(564): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(566): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(539): warning C4101: “flag”: 未引用的局部变量
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(539): warning C4101: “j”: 未引用的局部变量
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(604): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(607): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(617): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(621): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(625): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(629): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(632): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(633): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(634): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(637): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(638): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(639): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(640): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(644): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(661): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(673): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(697): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(710): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(716): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(717): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(718): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(719): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(720): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(721): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(725): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(750): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(762): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(768): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 参见“itoa”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(769): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(770): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(771): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(772): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(775): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(778): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(780): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(784): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(786): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(796): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(820): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(821): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(823): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\teaching\操作系统\操作系统ppt -zhj\操作系统实验\实验五\test5\test5\test5_1.cpp(825): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+       ManifestResourceCompile:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\test5.exe.embed.manifest.res" Debug\test5_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\test5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\test5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\test5.lib" /MACHINE:X86 Debug\test5.exe.embed.manifest.res
+         Debug\test5_1.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\test5.exe.embed.manifest" /manifest Debug\test5.exe.intermediate.manifest
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\test5.exe.embed.manifest.res" Debug\test5_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\test5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\test5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\test5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\test5.lib" /MACHINE:X86 Debug\test5.exe.embed.manifest.res
+         Debug\test5_1.obj
+         test5.vcxproj -> G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\Debug\test5.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\test5.unsuccessfulbuild".
+         Touching "Debug\test5.lastbuildstate".
+     1>Done Building Project "G:\teaching\操作系统\操作系统PPT -zhj\操作系统实验\实验五\test5\test5\test5.vcxproj" (build target(s)).
+
+生成成功。
+
+Time Elapsed 00:00:01.60
